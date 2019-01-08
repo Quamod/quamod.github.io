@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "Google Search",
+      "id": "com.google.android.googlequicksearchbox",
+      "img": "https://lh3.googleusercontent.com/DKoidc0T3T1KvYC2stChcX9zwmjKj1pgmg3hXzGBDQXM8RG_7JjgiuS0CLOh8DUa7as=s180-rw"
+    },
+    {
+      "name": "Whatsapp",
+      "id": "com.whatsapp",
+      "img": "https://lh3.ggpht.com/mp86vbELnqLi2FzvhiKdPX31_oiTRLNyeK8x4IIrbF5eD1D5RdnVwjQP0hwMNR_JdA=s180-rw"
+    }
+  ]
+}
